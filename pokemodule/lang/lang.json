@@ -1,0 +1,17 @@
+{
+    "DND5E.AbilityStrAbbr": "Atk",
+    "DND5E.AbilityStr": "Attack"
+    "DND5E.AbilityConAbbr": "Def",
+    "DND5E.AbilityCon": "Defense"
+    "DND5E.AbilityDexAbbr": "Spe",
+    "DND5E.AbilityDex": "Speed"
+    "DND5E.AbilityIntAbbr": "SpA",
+    "DND5E.AbilityInt": "Special Attack"
+    "DND5E.AbilityWisAbbr": "SpD",
+    "DND5E.AbilityWis": "Special Defense"
+    "DND5E.AbilityChaAbbr": "Hap",
+    "DND5E.AbilityCha": "Happiness",
+    "DND5E.SkillHis": "Society",
+    "DND5E.SkillArc": "Power",
+    "DND5E.SkillRel": "Legend"
+}
