@@ -1,0 +1,29 @@
+{
+  "id": "pokemodule",
+  "title": "Pokemodule",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Author 1",
+      "flags": {}
+    }
+  ],
+    "esmodules": [],
+    "styles": [ ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+  "flags": {
+    "canUpload": true
+  },
+  "url": "https://github.com/CaseyCase389/Pokemodule.git",
+  "description": ""
+}
