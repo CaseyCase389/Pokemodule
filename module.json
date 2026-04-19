@@ -1,0 +1,20 @@
+{
+  "id": "pokemodule",
+  "title": "Pokemodule",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Author 1",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "action": "manageModule",
+  "description": ""
+}
